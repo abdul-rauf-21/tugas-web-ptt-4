@@ -5,6 +5,7 @@
 
 body{
 	font-family: "Verdana";
+	overflow: hidden;
 }
 
 header{
@@ -20,10 +21,6 @@ header{
 header > h1{
 	margin-left: 10px;
 	font-size: 22px;
-}
-
-body{
-	overflow: hidden;
 }
 
 #menu{
